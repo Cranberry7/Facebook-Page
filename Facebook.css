@@ -148,7 +148,7 @@ hr {
   }
 }
 
-@media (max-width: 460px) {
+@media (max-width: 600px) {
   .facebook-page h1 {
     font-size: 3.5rem;
   }
